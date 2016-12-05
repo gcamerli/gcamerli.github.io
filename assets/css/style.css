@@ -1,0 +1,56 @@
+@import url('assets/css/font-awesome.css');
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+/* Header */
+
+#header {
+  font-family: Quicksand;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Footer */
+
+#footer {
+  font-family: Quicksand;
+  padding: 3em 0 3em 0;
+  text-align: center;
+  margin: auto;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+#footer ul.icons li {
+  display: inline-block;
+  padding: 0 0.75em 0 0;
+}
+
+#footer  ul.copyright li {
+  color: #aaaaaa;
+  list-style-type: none;
+  padding: 1em 0 0 0;
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+/* Icons */
+
+.icon {
+  text-decoration: none;
+  border-bottom: none;
+  position: relative;
+  padding-left: 0.5em;
+  color: #172232;
+  font-family: FontAwesome;
+  font-size: 1.5em;
+}
+
+.icon:hover {
+  color: #f96e5b;
+}
+
+.icon > .label {
+  display: none;
+}
