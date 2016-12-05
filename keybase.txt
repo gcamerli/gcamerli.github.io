@@ -4,9 +4,9 @@ https://keybase.io/gcamerli
 
 I hereby claim:
 
-  * I am an admin of https://gcamerli.github.io
+  * I am an admin of http://gcamer.li
   * I am gcamerli (https://keybase.io/gcamerli) on keybase.
-  * I have a public key ASCGqMERHavumfhrddd0un2LvF3nHc2gMzbWs5pC1M-KYAo
+  * I have a public key with fingerprint B862 3196 5514 4421 F531  A909 0702 8DB5 DBF8 BAAE
 
 To do so, I am signing this object:
 
@@ -14,37 +14,62 @@ To do so, I am signing this object:
     "body": {
         "key": {
             "eldest_kid": "012086a8c1111dabee99f86b75d774ba7d8bbc5de71dcda03336d6b39a42d4cf8a600a",
+            "fingerprint": "b862319655144421f531a90907028db5dbf8baae",
             "host": "keybase.io",
-            "kid": "012086a8c1111dabee99f86b75d774ba7d8bbc5de71dcda03336d6b39a42d4cf8a600a",
+            "key_id": "07028db5dbf8baae",
+            "kid": "010122f402bb5d210ad6682f750e80742cdd2447d646331fdef79c45d6f10e385aa00a",
             "uid": "42050fab0e007a8a06dc9dae34c1c319",
             "username": "gcamerli"
         },
+        "revoke": {
+            "sig_ids": [
+                "12ddce55b9df825a7f2480f8083424519f03943777d538e0617d4bbc9d148b530f"
+            ]
+        },
         "service": {
-            "hostname": "gcamerli.github.io",
-            "protocol": "https:"
+            "hostname": "gcamer.li",
+            "protocol": "http:"
         },
         "type": "web_service_binding",
         "version": 1
     },
-    "client": {
-        "name": "keybase.io go client",
-        "version": "1.0.18"
-    },
-    "ctime": 1478696650,
-    "expire_in": 504576000,
-    "merkle_root": {
-        "ctime": 1478696566,
-        "hash": "93c3a3fddd472fd3234218a6ff55483ead7661a016495a91bd2baf997054bf4c61267a2b2d0b0fdfbf410008822280a4b1756b6f9104089390992a0b529e8d66",
-        "seqno": 705227
-    },
-    "prev": "0be22815891b817cecdff8937f2d72d3e8e19391405f656caa216f1bbf9aca5a",
-    "seqno": 8,
+    "ctime": 1480943984,
+    "expire_in": 157680000,
+    "prev": "9b4a096e61dfa9dde8fa57af01cf254c5cc9095adc96402ce2b6ab17627b97d9",
+    "seqno": 12,
     "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEghqjBER2r7pn4a3XXdLp9i7xd5x3NoDM21rOaQtTPimAKp3BheWxvYWTFAvp7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODZhOGMxMTExZGFiZWU5OWY4NmI3NWQ3NzRiYTdkOGJiYzVkZTcxZGNkYTAzMzM2ZDZiMzlhNDJkNGNmOGE2MDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODZhOGMxMTExZGFiZWU5OWY4NmI3NWQ3NzRiYTdkOGJiYzVkZTcxZGNkYTAzMzM2ZDZiMzlhNDJkNGNmOGE2MDBhIiwidWlkIjoiNDIwNTBmYWIwZTAwN2E4YTA2ZGM5ZGFlMzRjMWMzMTkiLCJ1c2VybmFtZSI6ImdjYW1lcmxpIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJnY2FtZXJsaS5naXRodWIuaW8iLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ3ODY5NjY1MCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDc4Njk2NTY2LCJoYXNoIjoiOTNjM2EzZmRkZDQ3MmZkMzIzNDIxOGE2ZmY1NTQ4M2VhZDc2NjFhMDE2NDk1YTkxYmQyYmFmOTk3MDU0YmY0YzYxMjY3YTJiMmQwYjBmZGZiZjQxMDAwODgyMjI4MGE0YjE3NTZiNmY5MTA0MDg5MzkwOTkyYTBiNTI5ZThkNjYiLCJzZXFubyI6NzA1MjI3fSwicHJldiI6IjBiZTIyODE1ODkxYjgxN2NlY2RmZjg5MzdmMmQ3MmQzZThlMTkzOTE0MDVmNjU2Y2FhMjE2ZjFiYmY5YWNhNWEiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDIgamK0BGN3UFX3/91RVRyhViW7CRAdhO4zi9+ufNEvvMAHYGIHptMvtMJlxNxkZe3k1Yeex4D8DeAJUMbAJ8BqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgIpgmxxIhE+J7/jY4RULzhj+5bL1a/HgKbWCipc180vGjdGFnzQICp3ZlcnNpb24B
+-----BEGIN PGP MESSAGE-----
+
+owFlUn1QlEUc5sMSaJRwKJUYG16VSujad9/vS2TG1BpTw6IZrMGb3Xf35V4O7s73
+Dug8HYsckdKkMdH8JhPDHD9CUMTRGnEGCyX11FEcGBXTND4qzQNHaw/zj6b9Z2d/
++/ye59nnt1UjYqPioofHrGzoCB/aHf3Trzgqb7p5NchhDwlw9iDnokMbLSLU53e4
+TMLZOcBDoMpI1Xm2CMKUapqhyliRiKKIGClExViXCFV4ohMEBEGQiYwFDYmQiLqh
+IhkAxGVyhukuoJbXMt1+RotVGQq8JksSL4oi5A1J4JEGNKAAqBIsEWyoGCHKGp0e
+X6SDmcPIR22mh9XYwfHI3v/xj30z59AQAcTsFvIAEVlWoaFIgKpAEaFOCBRFhcii
+LAi8QaihaLooEdngARVUCaFHvkuG6EQIJGAgDCgAClIRkImuEUQFUed19pAI0Ect
+NyqmDF2gs90qMrnFmZxFSz0uGsnVZxYw0z7O/j7HQ0J0KklYI4YKJaQYUFSBoQJV
+EKEo8ZoBBE0UFEUhkqBSIPMKEVnOGuFFFUsCMLh8xs0US019iDyS0n/UbUw+k/Na
+Hr9H9xSxstPv99ojjvwBbwRWRvdhx78MDmy6CRsQ6yills/0uDk7z6C634xQMlHA
+7GiqmMnRD7ymRR1mBCEpsgrYiujQUsapYREBTaYyTwykEUJVA0kKMgCvG1ASdUnX
+2ZAlxMKT2Wh0CrGMMK/IUMGaQiIx+ugCt4dxQ2YUFTBOFpsb+Ussyi1OqIxJHRYV
+HRf15BMxka8blRD/9OP/PGJ14kP7L46mT5tuDqtdkN/z5evm8aXDm8Z2elvry5Zs
+zD2Yf/u7yZsmrrDV+QtdWULuHNw3ftadnTfWO50Jrm2vdFzZI6/rBcuuds8/aRt9
+2SgZaEttrbBtCD07oTNuxfe34nMuNK3cFFz/8c1j4dijwYOutNT6v5LKFy0T2z55
+MX1z3PzK8x+Ntezh7bFC9Usqaugbebfi+rTr1wp/D77d7TixbsvLU5eEzsbM7WrX
+0/1d1c7cec9/dbe9zvHe5YbexOnAcbZla21ZI/zj3Rl5f5Yvj53826iFvWcbhpUv
+/jyndsNsz+GLpyd1rL90zt7eviuxo3/Kt0c3r84a2N4z0HH/PBocMxyQoyU/HtqW
+cnGfMq4goS0tkJ3RXw1nFU54M9QDb5zavWbVgYr7NQ+T1k6tWtsLt75h61o6WBUa
+9dzgzuI1Getmbj85/9yi8KVjxiLr+J7PlrSWnTo8fUexljGtsWIgd+nBb6on7mh8
+mN6SPHhrdsbPlZN2cXOc90JjRh/5IbvqkLB3XP+WnHnptaHk/NTgYWWGo4VrPnPm
+68q2ZXuf+iLQNzP5Qo23ecNybts7rfGx1+7duXIksXn1q6vyThfXXR6d9+CA+Qyc
+UJQW6OpsdyfkvDburQ+7m/O6Nu6fp04NZGdmxaVlz/RE9afNCnfWTEnmboerW1oe
+pB95oS0lae7f44O59SOvWyceLFxZlwL3/wM=
+=3yIm
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -52,3 +77,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/gcamerli
 
 ==================================================================
+
