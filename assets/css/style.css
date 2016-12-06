@@ -36,6 +36,7 @@
 
 #footer  ul.copyright li a {
   text-decoration: none;
+  color: #172232;
 }
 
 #footer  ul.copyright li a:hover {
@@ -46,7 +47,7 @@
 
 .icon {
   text-decoration: none;
-  border-bottom: none;
+  border-top: none;
   position: relative;
   padding-left: 0.5em;
   color: #172232;
