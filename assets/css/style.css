@@ -29,9 +29,17 @@
 #footer  ul.copyright li {
   color: #aaaaaa;
   list-style-type: none;
-  padding: 1em 0 0 0;
+  padding: 1em 0 1em 0;
   font-size: 0.9em;
   font-weight: bold;
+}
+
+#footer  ul.copyright li a {
+  text-decoration: none;
+}
+
+#footer  ul.copyright li a:hover {
+  color: #f96e5b;
 }
 
 /* Icons */
