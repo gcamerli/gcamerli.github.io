@@ -13,9 +13,9 @@
 
 #footer {
   font-family: Quicksand;
-  padding: 3em 0 3em 0;
+  padding: 2em 3.5em 2em 1em;
   text-align: center;
-  position: absolute;
+  position: fixed;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -23,24 +23,23 @@
 
 #footer ul.icons li {
   display: inline-block;
-  padding: 0 0.75em 0 0;
 }
 
 #footer  ul.copyright li {
   color: #aaaaaa;
   list-style-type: none;
-  padding: 1em 0 1em 0;
+  padding: 1em 0.3em 1em 0.3em;
   font-size: 0.9em;
   font-weight: bold;
 }
 
 #footer  ul.copyright li a {
   text-decoration: none;
-  color: #172232;
+  color: #f96e5b;
 }
 
 #footer  ul.copyright li a:hover {
-  color: #f96e5b;
+  color: #172232;
 }
 
 /* Icons */
@@ -49,6 +48,7 @@
   text-decoration: none;
   border-top: none;
   position: relative;
+  padding-right: 0.5em;
   padding-left: 0.5em;
   color: #172232;
   font-family: FontAwesome;
