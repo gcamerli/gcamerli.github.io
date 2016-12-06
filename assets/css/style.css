@@ -1,6 +1,10 @@
 @import url('assets/css/font-awesome.css');
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
+body {
+  background-color: #172232;
+}
+
 /* Header */
 
 #header {
@@ -26,7 +30,7 @@
 }
 
 #footer  ul.copyright li {
-  color: #aaaaaa;
+  color: #1d2b3f;
   list-style-type: none;
   padding: 1em 0.3em 1em 0.3em;
   font-size: 0.9em;
@@ -39,7 +43,7 @@
 }
 
 #footer  ul.copyright li a:hover {
-  color: #172232;
+  color: #3a567e;
 }
 
 /* Icons */
@@ -50,7 +54,7 @@
   position: relative;
   padding-right: 0.5em;
   padding-left: 0.5em;
-  color: #172232;
+  color: #3a567e;
   font-family: FontAwesome;
   font-size: 1.5em;
 }
