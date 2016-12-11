@@ -1,3 +1,3 @@
-# Ramblings 
+## Resume ##
 
-A personal journey inside the blogsphere.
+Personal resume
