@@ -1,3 +1,3 @@
-## Resume ##
+## Resume
 
-Personal resume
+Personal resume.
