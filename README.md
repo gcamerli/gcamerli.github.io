@@ -6,7 +6,7 @@ Fail as much as you can and enjoy the fall.
 
 ### **Description**
 
-This is my personal resume.
+This is my personal lightweight resume.
 
 ### **Credits**
 
