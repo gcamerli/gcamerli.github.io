@@ -5,14 +5,6 @@ body {
   background-color: #172232;
 }
 
-/* Header */
-
-#header {
-  font-family: Quicksand;
-  font-weight: bold;
-  text-align: center;
-}
-
 /* Footer */
 
 #footer {
@@ -30,7 +22,7 @@ body {
 }
 
 #footer  ul.copyright li {
-  color: #1d2b3f;
+  color: #22334b;
   list-style-type: none;
   padding: 1em 0.3em 1em 0.3em;
   font-size: 0.9em;
