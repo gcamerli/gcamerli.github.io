@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+/* Body */
+
+body {
+  background: url("https://static.pexels.com/photos/2867/sunglasses-woman-girl-faceless.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  font-family: Quicksand;
+  letter-spacing: 0.1em;
+  font-size: 8em;
+  color: #172232;
+  text-align: center;
+}
+
+h2 {
+  font-family: Quicksand;
+  font-weight: bold;
+  letter-spacing: 0.2em;
+  font-size: 3em;
+  color: gray;
+  text-align: center;
+}
+
+h2 a {
+  text-decoration: none;
+  color: white;
+}
+
+h2 a:hover {
+  background: #f96e5b;
+}
