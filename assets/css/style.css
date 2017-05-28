@@ -5,9 +5,9 @@ body {
   background-color: #172232;
 }
 
-/* Footer */
+/* Contact */
 
-#footer {
+#contact {
   font-family: Quicksand;
   text-align: center;
   padding: 2em 3.5em 2em 1em;
@@ -17,11 +17,11 @@ body {
   transform: translate(-50%, -50%);
 }
 
-#footer ul.icons li {
+#contact ul.icons li {
   display: inline-block;
 }
 
-#footer  ul.copyright li {
+#contact  ul.copyright li {
   color: #22334b;
   list-style-type: none;
   padding: 1em 0.3em 1em 0.3em;
@@ -29,25 +29,25 @@ body {
   font-weight: bold;
 }
 
-#footer  ul.copyright li a {
+#contact  ul.copyright li a {
   text-decoration: none;
   color: #f96e5b;
 }
 
-#footer  ul.copyright li a:hover {
+#contact  ul.copyright li a:hover {
   color: #3a567e;
 }
 
 @media screen and (max-width: 480px) {
 
-  #footer {
+  #contact {
     font-size: 10pt;
   }
 }
 
 @media screen and (max-width: 360px) {
 
-  #footer {
+  #contact {
     font-size: 8pt;
   }
 
