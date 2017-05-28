@@ -73,7 +73,7 @@ div.copyright p a:hover {
   }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 620px) {
 
   .icons {
     font-size: 0.7em;
