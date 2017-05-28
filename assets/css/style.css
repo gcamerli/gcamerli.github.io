@@ -2,65 +2,55 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
 
 body {
-  background-color: #172232;
+  font-family: Quicksand;
+  /* background-color: #172232;*/
+  width: 100%;
 }
 
 /* Contact */
 
-#contact {
-  font-family: Quicksand;
-  text-align: center;
-  padding: 2em 3.5em 2em 1em;
-  position: fixed;
+div.contact {
+  margin: 0;
+  position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
 }
 
-#contact ul.icons li {
-  display: inline-block;
+div.icons {
+  display: block;
+  text-align: center;
+  line-height: 1.6em;
+  margin: 2em 0 2em 0;
 }
 
-#contact  ul.copyright li {
+div.icons a {
+  margin: 0 0.8em 0 0.8em;
+}
+
+div.copyright p {
   color: #22334b;
   list-style-type: none;
-  padding: 1em 0.3em 1em 0.3em;
   font-size: 0.9em;
   font-weight: bold;
+  width: 100%;
+  margin: 2em 0 2em 0;
+  text-align: center;
 }
 
-#contact  ul.copyright li a {
+div.copyright p a {
   text-decoration: none;
   color: #f96e5b;
 }
 
-#contact  ul.copyright li a:hover {
+div.copyright p a:hover {
   color: #3a567e;
-}
-
-@media screen and (max-width: 480px) {
-
-  #contact {
-    font-size: 10pt;
-  }
-}
-
-@media screen and (max-width: 360px) {
-
-  #contact {
-    font-size: 8pt;
-  }
-
 }
 
 /* Icons */
 
 .icon {
   text-decoration: none;
-  border-top: none;
-  position: relative;
-  padding-right: 0.5em;
-  padding-left: 0.5em;
   color: #3a567e;
   font-family: FontAwesome;
   font-size: 1.5em;
@@ -74,18 +64,31 @@ body {
   display: none;
 }
 
+/* Mobile */
+
+@media screen and (max-width: 768px) {
+
+  .contact {
+    font-size: 0.8em;
+  }
+}
+
 @media screen and (max-width: 480px) {
-  .icon {
-    padding-right: 0.4em;
-    padding-left: 0.4em;
-    font-size: 1.3em;
+
+  .icons {
+    font-size: 0.7em;
+  }
+  .copyright {
+    font-size: 0.8em;
   }
 }
 
 @media screen and (max-width: 360px) {
-  .icon {
-    padding-right: 0.3em;
-    padding-left: 0.3em;
-    font-size: 1.3em;
+
+  .icons {
+    font-size: 0.55em;
+  }
+  .copyright {
+    font-size: 0.75em;
   }
 }
