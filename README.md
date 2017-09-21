@@ -26,3 +26,9 @@ This web page is built with [Github pages](https://pages.github.com) and hosted 
 ### **CC License**
 
 This work is provided under the terms of this license: [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/)
+
+### **Donations**
+
+Donations are accepted at:
+
++ BTC: 1DNWtR4wJbFE7vjcfQvuj4iE7FURYBURtr
