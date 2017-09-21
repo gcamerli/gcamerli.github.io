@@ -31,4 +31,4 @@ This work is provided under the terms of this license: [Creative Commons Attribu
 
 Donations are accepted at:
 
-+ BTC: 142dUNFbXGXKmsqvMsH3YetmxB9ogWjyr9
++ **BTC**: 142dUNFbXGXKmsqvMsH3YetmxB9ogWjyr9
