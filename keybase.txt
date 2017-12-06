@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/gcamerli
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gcamer.li
+  * I am gcamerli (https://keybase.io/gcamerli) on keybase.
+  * I have a public key ASD9lUTvySrUjIOUjZr60zgi_-03nTVjYexPATvw3eWZRQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012086a8c1111dabee99f86b75d774ba7d8bbc5de71dcda03336d6b39a42d4cf8a600a",
+      "host": "keybase.io",
+      "kid": "0120fd9544efc92ad48c83948d9afad33822ffed379d356361ec4f013bf0dde599450a",
+      "uid": "42050fab0e007a8a06dc9dae34c1c319",
+      "username": "gcamerli"
+    },
+    "merkle_root": {
+      "ctime": 1512595687,
+      "hash": "d223ba435a9e93c208eb98d6c72566b6ecc56269cf8baef0eea212912abd57e38850803ec922a307981f0f4fcdb9787541bd70ce99b7137d242ec7f404328283",
+      "hash_meta": "17d697bef599110031dd827c8772b1e476dcdfba2183095c3a4539678c3bf816",
+      "seqno": 1785844
+    },
+    "service": {
+      "hostname": "gcamer.li",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.36"
+  },
+  "ctime": 1512595731,
+  "expire_in": 504576000,
+  "prev": "618d663a395975b5df5a2ac87b62ddfbd58c4a353c012ab3688b1fe063a42330",
+  "seqno": 61,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg/ZVE78kq1IyDlI2a+tM4Iv/tN501Y2HsTwE78N3lmUUKp3BheWxvYWTFA0J7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODZhOGMxMTExZGFiZWU5OWY4NmI3NWQ3NzRiYTdkOGJiYzVkZTcxZGNkYTAzMzM2ZDZiMzlhNDJkNGNmOGE2MDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwZmQ5NTQ0ZWZjOTJhZDQ4YzgzOTQ4ZDlhZmFkMzM4MjJmZmVkMzc5ZDM1NjM2MWVjNGYwMTNiZjBkZGU1OTk0NTBhIiwidWlkIjoiNDIwNTBmYWIwZTAwN2E4YTA2ZGM5ZGFlMzRjMWMzMTkiLCJ1c2VybmFtZSI6ImdjYW1lcmxpIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTEyNTk1Njg3LCJoYXNoIjoiZDIyM2JhNDM1YTllOTNjMjA4ZWI5OGQ2YzcyNTY2YjZlY2M1NjI2OWNmOGJhZWYwZWVhMjEyOTEyYWJkNTdlMzg4NTA4MDNlYzkyMmEzMDc5ODFmMGY0ZmNkYjk3ODc1NDFiZDcwY2U5OWI3MTM3ZDI0MmVjN2Y0MDQzMjgyODMiLCJoYXNoX21ldGEiOiIxN2Q2OTdiZWY1OTkxMTAwMzFkZDgyN2M4NzcyYjFlNDc2ZGNkZmJhMjE4MzA5NWMzYTQ1Mzk2NzhjM2JmODE2Iiwic2Vxbm8iOjE3ODU4NDR9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZ2NhbWVyLmxpIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzYifSwiY3RpbWUiOjE1MTI1OTU3MzEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNjE4ZDY2M2EzOTU5NzViNWRmNWEyYWM4N2I2MmRkZmJkNThjNGEzNTNjMDEyYWIzNjg4YjFmZTA2M2E0MjMzMCIsInNlcW5vIjo2MSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBXEml4GGp/wJuONEtEwY/O2TkgHwl/XCwH6vGjfyszYcbdK7vFjYXW5UaVw+Bnsjk1s+0YOTy2WH7g0Nv3rcMAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgbo05rljSMrru24fPep5B9s2kJXo/0jCtLsU/7yEggO+jdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gcamerli
+
+==================================================================
