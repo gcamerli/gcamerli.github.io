@@ -62,7 +62,14 @@
       </div>
       <div class="copyright animated fadeInUpBig">
         <p><a href="https://keybase.io/gcamerli/key.asc" target="_blank" title="PGP Key">1F9F 05DA 3F72 1777</a></p>
-        <p>&copy; 2017 &middot; Gius. Camerlingo</p>
+        <p>&copy; 2016 -
+          <span id="copyright">
+          <script>
+            document.getElementById('copyright').appendChild(document.createTextNode(new Date().getFullYear()))
+          </script>
+          </span>
+          &middot; Gius. Camerlingo</p>
+        </p>
       </div>
     </div>
     <script type="text/javascript" color="58,86,126" opacity='1' zIndex="-2" count="120" src="assets/js/canvas-nest.js"></script>
